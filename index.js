@@ -9,7 +9,7 @@ let tareas = [
     { id: 2, titulo: 'Tarea 2', descripcion: 'Llorar', estado: true },
     { id: 3, titulo: 'Tarea 3', descripcion: 'Comer', estado: false },
     { id: 4, titulo: 'Tarea 4', descripcion: 'Ducharse', estado: true },
-    { id: 5, titulo: 'Tarea 5', descripcion: 'Suicidio :v', estado: false }
+    { id: 5, titulo: 'Tarea 5', descripcion: 'Ejercitarse', estado: false }
 ];
 
 // Ruta GET para obtener todas las tareas
