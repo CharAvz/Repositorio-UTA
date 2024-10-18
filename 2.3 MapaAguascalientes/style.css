@@ -1,0 +1,11 @@
+/* Asegurar que el mapa ocupe toda la pantalla */
+#map {
+    height: 100vh; /* Ocupa toda la altura de la ventana del navegador */
+    width: 100%; /* Ocupa todo el ancho */
+}
+
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
